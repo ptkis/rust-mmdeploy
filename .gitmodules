@@ -1,0 +1,3 @@
+[submodule "rust-mmdeploy-sys"]
+	path = rust-mmdeploy-sys
+	url = git@github.com:ptkis/rust-mmdeploy-sys.git
