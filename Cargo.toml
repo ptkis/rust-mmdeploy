@@ -12,5 +12,5 @@ authors = ["Liu Mengyang","VanderBieu"]
 
 [dependencies]
 mmdeploy-sys = "1.0.0"
-opencv = "0.68"
+opencv = "0.92.2"
 rand = "0.8.5"
